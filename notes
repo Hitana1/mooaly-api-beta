@@ -1,0 +1,4 @@
+Tech stack
+    - MySQL for data persisting
+    - SendGrid for emails
+    - Google Drive API for images persisting
